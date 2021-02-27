@@ -8,5 +8,6 @@ var $plugins =
 {"name":"ThaiFontAutoAdjuster","status":true,"description":"ปรับตัวอักษรภาษาไทยไปตามยถากรรม","parameters":{}},
 {"name":"MOG_Weather_EX","status":true,"description":"(v1.3) Adiciona novos efeitos de climas.","parameters":{"Battle Weather":"true","/":""}},
 {"name":"MOG_EventSensor","status":true,"description":"(v1.0) Sistema de distância de eventos.","parameters":{"Self Switch Key":"D"}},
-{"name":"GALV_MoveRouteExtrasMZ","status":true,"description":"(v.1.1) Additional SCRIPT commands to use within MOVE ROUTES\r\nView the plugin \"Help\" to view available commands.","parameters":{}}
+{"name":"GALV_MoveRouteExtrasMZ","status":true,"description":"(v.1.1) Additional SCRIPT commands to use within MOVE ROUTES\r\nView the plugin \"Help\" to view available commands.","parameters":{}},
+{"name":"GALV_EventSpawnerMZ","status":true,"description":"(v.1.0) Spawn events from a specified spawn map to a desired location.","parameters":{"mId":"16"}}
 ];
